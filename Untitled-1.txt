@@ -1,0 +1,61 @@
+### Problem Statement:
+A news aggregator app offers generic content to users but struggles with user retention because the articles aren't always relevant. The goal is to redesign the app to personalize the experience based on:
+- user interests
+- reading habits
+- engagement history
+
+---
+
+### Objectives:
+1. Use user data to create a personalized news feed.
+2. Design an interface that allows users to easily modify their preferences.
+3. Incorporate features such as article recommendations, topic tracking, and content filters.
+4. Validate the design by testing user engagement with the personalized news feed.
+
+---
+
+### Use the Design Thinking Process:
+1. **Empathize**
+   - Conduct surveys
+   - Analyze user feedback
+   - Identify pain points in generic news feeds
+
+2. **Define**
+   - Write a clear problem definition
+   - Identify why current app lacks engagement
+   - Create user personas and user journey maps
+
+3. **Ideate**
+   - Brainstorm personalization features
+   - Include recommendation algorithms, preference sliders, mute/follow topics, reading behavior tracking
+
+4. **Prototype**
+   - Create wireframes for:
+       • Personalized homepage  
+       • Preference settings  
+       • Topic tracking page  
+       • Recommendation section  
+   - Include both low-fidelity and high-fidelity descriptions
+
+5. **Test**
+   - Test with real users
+   - Measure engagement changes
+   - Include feedback summary, A/B testing insights
+
+---
+
+### Final Output Requirements:
+Produce a clean and complete UX Case Study including:
+- Title
+- Problem Statement
+- Goals & Objectives
+- Research Insights
+- Personas
+- Empathy Maps
+- User Journey Maps
+- Information Architecture
+- User Flows
+- Wireframe Descriptions
+- UI Concepts (textual mockups)
+- Testing Findings
+- Conclusion & Future Scope

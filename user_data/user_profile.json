@@ -1,0 +1,138 @@
+{
+  "preferences": {
+    "interests": [
+      "Technology",
+      "Environment",
+      "Business"
+    ],
+    "sources": [],
+    "min_reading_time": 1,
+    "max_reading_time": 10,
+    "maturity_level": "General"
+  },
+  "viewed_articles": [
+    "20",
+    "5",
+    "15",
+    "2",
+    "7",
+    "19",
+    "16",
+    "9",
+    "12",
+    "4",
+    "11",
+    "13",
+    "18",
+    "10",
+    "8",
+    "6",
+    "17",
+    "1",
+    "14",
+    "3"
+  ],
+  "reading_history": [
+    {
+      "article_id": "5",
+      "timestamp": "2025-11-21T23:48:57.015431"
+    },
+    {
+      "article_id": "16",
+      "timestamp": "2025-11-21T23:49:01.229543"
+    },
+    {
+      "article_id": "7",
+      "timestamp": "2025-11-21T23:49:06.474041"
+    },
+    {
+      "article_id": "9",
+      "timestamp": "2025-11-22T00:53:32.404560"
+    },
+    {
+      "article_id": "2",
+      "timestamp": "2025-11-22T00:53:42.032259"
+    },
+    {
+      "article_id": "12",
+      "timestamp": "2025-11-22T00:56:05.400202"
+    },
+    {
+      "article_id": "18",
+      "timestamp": "2025-11-22T00:56:09.128756"
+    },
+    {
+      "article_id": "19",
+      "timestamp": "2025-11-22T00:56:13.121355"
+    },
+    {
+      "article_id": "10",
+      "timestamp": "2025-11-22T00:56:55.094658"
+    },
+    {
+      "article_id": "14",
+      "timestamp": "2025-11-22T00:56:58.353779"
+    },
+    {
+      "article_id": "15",
+      "timestamp": "2025-11-22T00:57:03.942635"
+    },
+    {
+      "article_id": "11",
+      "timestamp": "2025-11-22T00:57:07.365628"
+    },
+    {
+      "article_id": "4",
+      "timestamp": "2025-11-22T00:57:53.570391"
+    },
+    {
+      "article_id": "17",
+      "timestamp": "2025-11-22T00:57:56.531023"
+    },
+    {
+      "article_id": "1",
+      "timestamp": "2025-11-22T00:58:06.393447"
+    },
+    {
+      "article_id": "8",
+      "timestamp": "2025-11-22T00:58:59.570397"
+    },
+    {
+      "article_id": "13",
+      "timestamp": "2025-11-22T00:59:45.712114"
+    },
+    {
+      "article_id": "6",
+      "timestamp": "2025-11-22T01:04:33.925026"
+    },
+    {
+      "article_id": "20",
+      "timestamp": "2025-11-22T01:04:36.569671"
+    },
+    {
+      "article_id": "3",
+      "timestamp": "2025-11-22T01:04:39.958293"
+    }
+  ],
+  "followed_topics": [
+    "Space",
+    "Smartphones",
+    "Markets",
+    "Conservation",
+    "Virtual Reality",
+    "Quantum Computing",
+    "Energy",
+    "Biology",
+    "Renewable Energy",
+    "Economy",
+    "Nutrition",
+    "Innovation",
+    "E-commerce",
+    "Climate Change",
+    "Mental Health",
+    "Batteries",
+    "Sustainability",
+    "Artificial Intelligence"
+  ],
+  "muted_topics": []
+}
