@@ -182,7 +182,7 @@ def show_topic_tracking():
             with col2:
                 if st.button(f"Unfollow {topic}"):
                     st.session_state.user_profile.unfollow_topic(topic)
-                    st.experimental_rerun()
+                    st.rerun()
     else:
         st.info("You're not following any topics yet.")
     
@@ -197,7 +197,7 @@ def show_topic_tracking():
         selected_topic = st.selectbox("Select a topic to follow:", available_topics)
         if st.button("Follow Topic"):
             st.session_state.user_profile.follow_topic(selected_topic)
-            st.experimental_rerun()
+            st.rerun()
     else:
         st.info("You're already following all available topics!")
 
